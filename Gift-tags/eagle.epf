@@ -7,6 +7,8 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="F:/Users/robin/Documents/Eagle/Eagle-library/E14_Arduino_revC.lbr"
+UsedLibrary="F:/Users/robin/Documents/Eagle/Eagle-library/adafruit.lbr"
 UsedLibrary="C:/EAGLE-7.7.0/lbr/19inch.lbr"
 UsedLibrary="C:/EAGLE-7.7.0/lbr/40xx.lbr"
 UsedLibrary="C:/EAGLE-7.7.0/lbr/41xx.lbr"
@@ -350,7 +352,7 @@ UsedLibrary="C:/EAGLE-7.7.0/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="-9 -38 590 361"
+Loc="0 0 1594 1065"
 State=2
 Number=0
 
